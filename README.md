@@ -1,6 +1,6 @@
 # Down The Rabbit Hole
 
-Collection of various code/snippets/misc things used in presentations.
+A collection of various code/snippets/misc things used in presentations.
 
 ## Presentations and files
 
