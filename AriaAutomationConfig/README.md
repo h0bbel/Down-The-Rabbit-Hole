@@ -16,6 +16,4 @@ The presentation itself is found here: [presentation.pptx](presentation/presenta
 
 07. September 2023: [VMUG Norway](https://vmug.no/)
 
-![Salt Bae](assets/saltbae.gif)
-
-<img align="right" src="assets/saltbae.gif" alt="image" />
+<img align="right" src="assets/saltbae.gif" alt="Salt Bae" />
