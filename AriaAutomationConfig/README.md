@@ -13,7 +13,6 @@ Aria Automation Config (SaltStack) [.sls files](sls/)
 The presentation itself is found here: [presentation.pptx](presentation/presentation.pptx)
 
 ### 🧾 Presentation Log
+<img align="right" src="assets/saltbae.gif" alt="Salt Bae" />
 
 07. September 2023: [VMUG Norway](https://vmug.no/)
-
-<img align="right" src="assets/saltbae.gif" alt="Salt Bae" />
