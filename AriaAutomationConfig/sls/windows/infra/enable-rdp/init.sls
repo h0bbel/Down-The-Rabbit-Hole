@@ -1,7 +1,5 @@
-# Name: windows/infra/enable-rdp.sls
+# Name: enable-rdp.sls
 # Description: Enable RDP on Windows (Server?)
-#
-# Note: Edit source: path to salt://{{ slspath }}
 
 enable-rdp-script:
   cmd.script:
