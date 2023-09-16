@@ -1,4 +1,4 @@
-# Down The Rabbit Hole
+# 🐇 Down The Rabbit Hole
 
 ![Alice in Wonderland Alice](assets/dtrb-alice.gif)
 
