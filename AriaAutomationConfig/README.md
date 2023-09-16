@@ -6,7 +6,7 @@ This folder contains the accompanying files for my talk on Aria Automation Confi
 
 ## 🎁 Files
 
-Aria Automation Config (SaltStack) [.sls files](sls/)
+Aria Automation Config (SaltStack) [state files (.sls files)](sls/)
 
 ## 📜 Presentation
 
