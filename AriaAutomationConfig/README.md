@@ -1,9 +1,11 @@
 # Aria Automation Config
 
-A short description about the project and/or client.
+Accompanying files for my talk on Aria Automation Config (SaltStack)
+
 
 ## Getting Started
 
+State files `.sls` are in sls/
 
 ### Prerequisites
 
