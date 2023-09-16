@@ -2,6 +2,6 @@
 
 A collection of various code/snippets/misc things used in presentations.
 
-## Presentations and files
+## Presentations and files in the Down The Rabbit Hole series
 
-[Down the Rabbit Hole with Aria Automation Config](/AriaAutomationConfig)
+[ Aria Automation Config](/AriaAutomationConfig)
