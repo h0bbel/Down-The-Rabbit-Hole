@@ -15,3 +15,5 @@ The presentation itself is found here: [presentation.pptx](presentation/presenta
 ### Presentation Log
 
 07. September 2023: [VMUG Norway](https://vmug.no/)
+
+![Salt Bae](assets/saltbae.gif)
