@@ -1,4 +1,6 @@
 # Name: vcdatasets/init.sls
+# Version 0.1
+#
 # Description: Get vSphere Dataset via VMware Tools and set grain based on value
 # 1. Copy script from salt master to minion 
 # 2. Set role grain based on output from script

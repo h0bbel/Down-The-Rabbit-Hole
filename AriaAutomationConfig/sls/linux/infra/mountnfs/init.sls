@@ -1,8 +1,11 @@
 # Name: linux/infra/mountnfs/init.sls
+# Version 0.1
+#
 # Description: 
 # 1. Install nfs-common package if it isn't already installed.
 # 2. create /mnt/nfs mountpoint
 # 3. mount nfs
+
 
 install nfs-common:
   pkg.installed:

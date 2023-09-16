@@ -1,4 +1,6 @@
 # Name: add_dc.ps1
+# Version 0.1
+#
 # Description: Promote a new server to a domain controller
 # Required credentials — Need to find a script that works.
 # Declare variables

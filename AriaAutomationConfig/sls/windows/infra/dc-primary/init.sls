@@ -1,4 +1,6 @@
 # Name: windows/infra/dc-primary/init.sls
+# Version 0.1
+#
 # Description: Create new AD domain
 #
 # Note: Edit source: path to salt://{{ slspath }}

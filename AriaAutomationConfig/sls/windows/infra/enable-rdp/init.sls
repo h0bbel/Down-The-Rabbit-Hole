@@ -1,4 +1,6 @@
 # Name: windows/infra/enable-rdp/init.sls
+# Version 0.1
+#
 # Description: Enable RDP on Windows (Server?)
 #
 # Note: Edit source: path to salt://{{ slspath }}
