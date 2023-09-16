@@ -1,7 +1,11 @@
-###########################
-# Get vSphere Dataset and set role accordingly
+# Name: vcdatasets/init.sls
+# Description: Get vSphere Dataset via VMware Tools and set grain based on value
+# 1. Copy script from salt master to minion 
+# 2. Set role grain based on output from script
+# 3. Clean up, delete script from minion
 #
-# Seems like it's not possible to use jinja templates, aka {{ slspath }} in the cmd.run command.
+# Note: Seems like it's not possible to use jinja templates, aka {{ slspath }} in the cmd.run command.
+# That's why the script is copied locally and then executed
 
 copy-script:
   file.managed:
