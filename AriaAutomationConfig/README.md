@@ -1,6 +1,6 @@
 # Aria Automation Config
 
-![Aria Automation Config Login Screen](files/aac.png)
+![Aria Automation Config Login Screen](assets/aac.png)
 
 This folder contains the accompanying files for my talk on Aria Automation Config (SaltStack).
 
