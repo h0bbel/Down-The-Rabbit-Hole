@@ -4,4 +4,4 @@
 
 This folder contains the accompanying files for my talk on Aria Automation Config (SaltStack).
 
-The presentation itself is found here: [placeholder]
+The presentation itself is found here: [presentation.pptx](presentation/presentation.pptx)
