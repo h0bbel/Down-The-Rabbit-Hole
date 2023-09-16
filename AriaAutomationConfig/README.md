@@ -4,7 +4,7 @@
 
 This folder contains the accompanying files for my talk on Aria Automation Config (SaltStack).
 
-<img align="right" src="assets/saltbae.gif" height="50%" width="50%" alt="Salt Bae" />
+<img align="right" src="assets/saltbae.gif" height="150" width="150" alt="Salt Bae" />
 
 ## 🎁 Files
 
