@@ -4,15 +4,15 @@
 
 This folder contains the accompanying files for my talk on Aria Automation Config (SaltStack).
 
-## Files
+## 🎁 Files
 
 Aria Automation Config (SaltStack) [.sls files](sls/)
 
-## Presentation
+## 📜 Presentation
 
 The presentation itself is found here: [presentation.pptx](presentation/presentation.pptx)
 
-### Presentation Log
+### 🧾 Presentation Log
 
 07. September 2023: [VMUG Norway](https://vmug.no/)
 
