@@ -2,6 +2,13 @@
 # Deploy Pi-hole via curl #
 ###########################
 
+# Name: linux/infra/pi-hole/init.sls
+# Description: Deploy Pi-hole via curl
+# 1. Create /etc/pihole directory 
+# 2. Copy setupVars.conf from salt master to minion
+# 3. Run installer via curl
+# 4. Update minion grain to pihole
+
 # Make pihole config dir
 make-pihole-dir:
   file.directory:

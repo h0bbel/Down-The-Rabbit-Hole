@@ -1,5 +1,7 @@
-# Name: infra/dc-primary/init.sls
+# Name: windows/infra/dc-primary/init.sls
 # Description: Create new AD domain
+#
+# Note: Edit source: path to salt://{{ slspath }}
 
 {% set AppID = ['ADDomainController'] %}
 
