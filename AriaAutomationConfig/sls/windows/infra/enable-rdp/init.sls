@@ -1,5 +1,6 @@
 # Name: enable-rdp.sls
-# Description: Enable RDP on Windows (Server?)
+# Description: Enable RDP on Windows
+# Note: Edit source path
 
 enable-rdp-script:
   cmd.script:
