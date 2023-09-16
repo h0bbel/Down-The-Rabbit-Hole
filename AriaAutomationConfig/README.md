@@ -1,5 +1,7 @@
 # Aria Automation Config
 
+![Aria Automation Config Login Screen](aac.png)
+
 Accompanying files for my talk on Aria Automation Config (SaltStack)
 
 
