@@ -13,7 +13,9 @@ Aria Automation Config (SaltStack) [state files (.sls)](sls/)
 ## 📜 Presentation
 
 The presentation itself is found here: [presentation.pptx](presentation/presentation.pptx)
+<details>
+<summary>🧾 Presentation Log</summary><br/>
 
-### 🧾 Presentation Log
+7th September 2023: [VMUG Norway](https://vmug.no/)
 
-07. September 2023: [VMUG Norway](https://vmug.no/)
+</details>
