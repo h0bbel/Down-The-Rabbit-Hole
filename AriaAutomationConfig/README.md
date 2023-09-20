@@ -17,6 +17,7 @@ The presentation itself is found here: [TechX300-AAC.pptx](presentation/TechX300
 <summary>🧾 Presentation Log</summary><br/>
 
 7th September 2023: [VMUG Norway](https://vmug.no/)
+
 20th September 2023: [Tech X 300 / VMUG Denmark](https://www.eventbrite.com/e/techx-300-2023-tickets-647990355597)
 
 </details>
