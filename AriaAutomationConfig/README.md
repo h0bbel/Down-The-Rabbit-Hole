@@ -16,8 +16,7 @@ The presentation itself is found here: [TechX300-AAC.pptx](presentation/TechX300
 <details>
 <summary>🧾 Presentation Log</summary><br/>
 
-![Presenting at TechX 300](assets/techx300-presentation.jpg)
-
+[![Presenting at TechX 300](assets/techx300-presentation.jpg)](https://twitter.com/microlytix/status/1704810813473595879?s=61&t=jHAWRvC81V24gXzRiWCqVQ)
 
 7th September 2023: [VMUG Norway](https://vmug.no/)
 
