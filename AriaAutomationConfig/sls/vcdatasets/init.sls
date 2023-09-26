@@ -15,9 +15,9 @@ copy-script:
     - source: salt://{{ slspath }}/script.sh
     
 roles:   
-   {% set appid = salt['cmd.run']('/bin/sh -c "/tmp/script.sh"') %}
+   {% set AppID = salt['cmd.run']('/bin/sh -c "/tmp/script.sh"') %}
    grains.present:
-    - value: {{ appid }}
+    - value: {{ AppID }}
     
 delete-script:
  file.absent:
